@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "New threat model for illum",
+    "owner": "Trevor",
+    "description": "this is a cloient website for semiconductor component sales for solid state lighting and control systems"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram thingy",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Trevor"
+  }
+}
